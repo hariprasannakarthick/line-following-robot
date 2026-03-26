@@ -166,3 +166,13 @@ void loop() {
     stopBot();
   }
 }
+
+```
+---
+
+## Author
+
+Hari Prasanna
+B.Tech Robotics Engineering
+
+---
